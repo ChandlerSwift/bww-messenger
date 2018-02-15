@@ -1,0 +1,8 @@
+// Sample configuration file for BWW messenger interface.
+
+var config = {};
+
+config.email = "you@example.com";
+config.password = "mefxdRVh7ubRKHk4";
+
+module.exports = config;
